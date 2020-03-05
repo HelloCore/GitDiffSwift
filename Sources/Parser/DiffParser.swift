@@ -8,7 +8,7 @@
 
 import Foundation
 
-public final class DiffParser {
+public class DiffParser {
 
     internal enum GitPrefix {
         internal static let diffHeader = "diff --git"
